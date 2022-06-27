@@ -1,0 +1,10 @@
+body{
+	background: green;
+	margin: 10 px;
+	padding: 10 px;
+	
+}
+
+#linkedin {
+	color: white;
+}
