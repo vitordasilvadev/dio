@@ -1,6 +1,6 @@
 # Desafio - Homepage Instagram DIO
 
-Esse projeto foi feito com base no repositório da facilitadora da DIO, prof. Gabriela Pinheiro [aula de Flexbox](https://www.w3schools.com/html/)
+Esse projeto foi feito com base no repositório da facilitadora da DIO, prof. Gabriela Pinheiro [aula de Flexbox](https://github.com/SpruceGabriela/instagram-dio)
 
 ### Os requisitos são:
 
